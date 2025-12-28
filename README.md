@@ -443,7 +443,7 @@ FastAlloc/
 ├── FastAlloc.cpp    # Demo program
 ├── benchmark.cpp    # Performance test
 ├── README.md        # Documentation
-└── LINKEDIN_POST.md # Social media templates
+
 ```
 
 ---
